@@ -5,7 +5,7 @@ subtitle: Learn a little about me
 ---
 
 I will put content here, I promise!!!
-{% highlight Pygments linenos %}
+{% highlight ruby linenos %}
 def show
   @widget = Widget(params[:id])
   respond_to do |format|

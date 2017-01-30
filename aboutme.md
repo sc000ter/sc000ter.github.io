@@ -4,7 +4,7 @@ title: About me
 subtitle: Learn a little about me
 ---
 
-<img src="img/Brian_Smith1.jpg" width="200"/>
+<img src="http://thebackyardcoder.com/img/Brian_Smith1.jpg" width="200"/>
 
 # My Story
 

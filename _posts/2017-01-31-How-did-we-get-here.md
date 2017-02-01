@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: How did we get here?
 subtitle: How I set up this blog on the FREE! (or very cheap!)

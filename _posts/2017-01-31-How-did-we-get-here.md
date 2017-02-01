@@ -7,8 +7,6 @@ share-img: /img/R2_BB8.jpeg
 tags: [blogging, github]
 ---
 
-## Background
-
 I love software development.  I really do.  I love to cook too.  I approach my software development like I approach my cooking: assemble the ingredients, follow the recipe, add a bit of flair, and watch the magic happen!
 
 It gives me great satisfaction being able to assemble something that can bring people joy or fulfillment.  Even if what I assemble is a mundane line-of-business application that uses the Fibonacci sequence to collate characters pulled from strings into custom TPS reports delivered in PowerPoint being delivered to a CompuServe user.  Or pie.  Everyone loves pie. --but I digress.

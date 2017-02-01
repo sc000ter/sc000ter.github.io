@@ -12,7 +12,7 @@ I love software development.  I really do.  I love to cook too.  I approach my s
 
 It gives me great satisfaction being able to assemble something that can bring people joy or fulfillment.  Even if what I assemble is a mundane line-of-business application that uses the Fibonacci sequence to collate characters pulled from strings into custom TPS reports delivered in PowerPoint being delivered to a CompuServe user.  Or pie.  Everyone loves pie. --but I digress.
 
-##On with the bloggings!
+## On with the bloggings!
 So, how'd I setup this site for nothing.  Simple.  Click on the <a href="http://deanattali.com/beautiful-jekyll/" target="_blank">beautiful-jekyll</a> link at the bottom of the page.  Or the one in the previous sentence.  Whatevs.  Check out the `readme.md` file.  That's it.
 
 Done.

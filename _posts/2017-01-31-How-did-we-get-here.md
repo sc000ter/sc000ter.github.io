@@ -24,12 +24,12 @@ Now, let's take it a step further.  For about $11/year, you can buy a domain fro
 ## Enhancements
 I decided I wanted to open the site up to comments so I grabbed an account on <a href="https://disqus.com/" target="_blank">Disqus</a>.  I followed the instructions for installing disqus on my site wihtout actually installing it.  Because once you are setup to moderate a channel (or site, that was a little confusing to me), you will get a disqus "short name".  
 
-Reading more in the `readme.md` file, you will see a commented out section that talks about disqus.  Just uncomment out the line where you need to put your "short-name" and now your pages will have a disqus comment section at the bottom of them!
+Reading more in the `config.yaml` file, you will see a commented out section that talks about disqus.  Just uncomment out the line where you need to put your "short-name" and now your pages will have a disqus comment section at the bottom of them!
 
 How 'bout some analytics?  Go grab a Google login and head over to <a href="https://www.google.com/analytics/analytics/#?modal_active=none" target="_blank">Google Analytics</a>.  Sign up, it's free.  Add a new compaign.  Just call it your domain name.  I did.  I don't expect to get crazy with the analytics, but I would like to know how many people visit my site, how long they stay, what are popular posts, etc...
 
 ## Markdown, you say?
-Now that you have everything setup (oh sure, there's more you can add if you explore the `readme.md` file and I encourage you to do so), but I have enough customization now.  I've filled in all the social media outlets I want to share with you, given the e-mail you can reach me at, and you can subscribe to my RSS feed.  But now it's time to start producing content.
+Now that you have everything setup (oh sure, there's more you can add if you explore the `config.yaml` file and I encourage you to do so), but I have enough customization now.  I've filled in all the social media outlets I want to share with you, given the e-mail you can reach me at, and you can subscribe to my RSS feed.  But now it's time to start producing content.
 
 The only thing you need to know is Markdown.  If you know HTML and CSS, that's helpful but not necessary. 
 

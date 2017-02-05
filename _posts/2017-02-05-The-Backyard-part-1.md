@@ -7,8 +7,6 @@ share-img: /img/web_small.jpg
 tags: [software development, requirements]
 ---
 
-# The Backyard, part 1	
-
 When you first are approached by a customer that needs some software development done, what do you talk about?  Do you talk about the technology
 and "cool tools" you are going to use on their project?  Do you talk about the number of servers needed and the potential storage space needed by
 the database?  How about licensing issues?  Does the customer need to be aware or even care about all that?

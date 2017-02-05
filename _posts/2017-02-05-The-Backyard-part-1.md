@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: The Backyard, Part 1
 subtitle: Let's explore The Backyard, shall we?

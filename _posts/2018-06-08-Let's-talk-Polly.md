@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: We interrupt our program....
-subtitle: A project at work very interesting solution and I thought it would be great to write about it.
+subtitle: A project at work has a very interesting solution and I thought it would be great to write about it.
 image: /img/Polly-Logo-large.png
 share-img: /img/Polly-Logo-large.png
 tags: [asp.net, Polly, Resilliency, fun stuff]

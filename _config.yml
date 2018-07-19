@@ -29,7 +29,9 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Markdown Monster: "https://markdownmonster.west-wind.com/"
-    - Visual Studio 2017 RC: "https://www.visualstudio.com/vs/visual-studio-2017-rc/"
+    - Visual Studio: "https://www.visualstudio.com/downloads/"
+    - Postman: "https://www.getpostman.com/"
+    - LinqPad: "https://www.linqpad.net/"
   Code Links: "codelinks"
 
 # Image to show in the navigation bar - image must be a square (width = height)

@@ -21,7 +21,7 @@ We've explored two contexts that should be kept separate. This is a simplified e
 
 Alright, I think you've got a good idea where I'm coming from regarding contexts.  I like to express these contexts as micro services.  Now that we've tied the two concepts together in a concrete way, when I use either term interchangeably, you'll know what I"m talking about.,
 
-What next?  Next, we explore the different pieces the owner wants and then go back him and get a priority for each of the pieces that he wants.  Once we know what we will be building in what order, then we can start getting into the nitty-gritty of software development.
+What next?  Next, we explore the different pieces the owner wants and then go back to him and get a priority for each of the pieces that he wants.  Once we know what we will be building in what order, then we can start getting into the nitty-gritty of software development.
 
 Stay tuned.  I love talking about this high-level architecture stuff.  But even better, I like putting it into practice.
 

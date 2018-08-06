@@ -2,8 +2,8 @@
 layout: post
 title: The beginning of the fork in the road
 subtitle: Starting a new project is all about choices.  Let's explore some choices.
-image: /img/Choices.jpg
-share-img: /img/Choices.jpg
+image: /img/choices.jpg
+share-img: /img/choices.jpg
 tags: [requirements, solution architecture]
 ---
 # Let's write come code!

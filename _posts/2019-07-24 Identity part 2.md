@@ -45,6 +45,6 @@ I will attempt to make releases in the Github repo for the entire solution.  Tha
 
 As with anything, I'm sure it won't be perfect and it wouldn't surprise me if I had to blow away the repo and start over.  But, I'll document all that nonesense here. :)
 
-Until next time!
+Until next time!!
 
 --Brian

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Further user properties
 subtitle: Let's define further attributes of our users and where that data will live

@@ -10,7 +10,7 @@ tags: [foundation, Identity, API, the what,
 # Identity, part 2
 Now that we've seen the basic attributes of users, let's explore our application-specific attributes of our users.  Where should this data reside?  Should it be in the user store?  Should it live in its own database?
 
-Since this data will most likely include preferences such as cuisine, restaurants, favorite meals, etc., it makes sense to kee the why]p this data in a separate schema or data store.
+Since this data will most likely include preferences such as cuisine, restaurants, favorite meals, etc., it makes sense to keep this data in a separate schema or data store.
 
 Now that we have decided to store user preferences in its own place, now comes a little bit of DDD discussion.  I've referred to the concept of "Bounded Context" before, but what does that look like implementation-wise?
 
@@ -31,7 +31,7 @@ I'll be the first to say that supporting all this makes our job as architects an
 
 There are literally about 10 thick books out there on DDD, from Eric Evans' blue book, to Scott Millett and Nick Tune's Wrox press' "Patterns, Principles, and Practices of Domain-driven Design".  There are hundreds if not thousands of blog posts about DDD and/or subsets of its tenants.  Even presentations that mock up an architectual style.  So, again, if you aren't familiar with basic tenents of DDD, I would suggest you do some Googling, get one of the books I mentioned, and dig into the theory and practice.
 
-Now for how I intend to set things up.  I plan on using micro services (again, like I've mentioned before) to implement bounded context on the "back end" of this entire project.
+Now for how I intend to set things up.  I plan on using micro services (again, like I've mentioned before) to implement bounded contexts on the "back end" of this entire project.
 
 We'll setup the following:
 * Separate databases

@@ -4,7 +4,7 @@ title: Further user properties
 subtitle: Let's define further attributes of our users and where that data will live
 image: /img/R2_BB8.jpeg
 share-img: /img/R2_BB8.jpeg
-tags: [foundation, Identity, API, the what,
+tags: [foundation, Identity, API, the what]
 ---
 
 # Identity, part 2
@@ -43,7 +43,7 @@ We'll look at either versioning our database or using Entity Framework migration
 
 I will attempt to make releases in the Github repo for the entire solution.  That way, you can download a snapshot of the project at different times, fork the repo, clone it, or whatever you would like to do with it.
 
-As with anything, I'm sure it won't be perfect and it wouldn't surprise me if I had to blow away the repo and start over.  But, I'll document all that nonesense here. :)
+As with anything, I'm sure it won't be perfect and it wouldn't surprise me if I had to blow away the repo and start over.  But, I'll document all that nonsense here. :)
 
 Until next time!
 

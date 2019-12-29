@@ -1,4 +1,4 @@
- # --- General options --- #
+# --- General options --- #
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -49,10 +49,10 @@ avatar: "/img/BlackJack.jpg"
 author:
   name: Brian Smith
   email: "brian@brianandjeannesmith.com"
-  facebook: yourname  # eg. daattali
-  github: sc000ter    # eg. daattali
-  twitter: sc000ter   # eg. daattali
-  linkedin: brian-smith-075a724  # eg. daattali
+  facebook: yourname # eg. daattali
+  github: sc000ter # eg. daattali
+  twitter: sc000ter # eg. daattali
+  linkedin: brian-smith-075a724 # eg. daattali
   instagram: sc00ter012 # eg. daattali
 
 # Select which links to show in the footer
@@ -82,7 +82,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "TheBackyardCoder.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "TheBackyardCoder.com" # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -119,16 +119,14 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true  # add comments to all blog posts
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
+  - scope:
       path: "" # all files
     values:
       layout: "page"
@@ -148,8 +146,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl: "_posts"
+  media: "img"
   ignore:
     - 404.html
     - LICENSE
@@ -198,8 +196,9 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
